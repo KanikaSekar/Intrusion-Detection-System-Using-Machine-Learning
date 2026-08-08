@@ -88,13 +88,17 @@ Packets: 101
 
 ## Visualizations
 
-Generated visualizations include:
+### Attack Distribution Graph
+![Attack Distribution](screenshots/attack_distribution.png)
 
-1. Attack Distribution Graph
-2. Confusion Matrix Heatmap
-3. Feature Importance Graph
+### Confusion Matrix Heatmap
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### Feature Importance Graph
+![Feature Importance](screenshots/feature_importance.png)
 
 All generated graphs are stored in the screenshots folder.
+
 
 ## Project Structure
 
